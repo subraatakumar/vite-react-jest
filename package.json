@@ -1,7 +1,14 @@
 {
   "name": "vite-react-jest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom Vite template for React with Jest testing setup",
+    "keywords": [
+    "vite",
+    "react app",
+    "jest",
+    "vite react jest template",
+    "subrata das"
+  ],
   "main": "index.js",
   "type": "module",
   "scripts": {
