@@ -1,1 +1,2 @@
-prettier --write .
+# prettier --write .
+prettier --write . && npm test
