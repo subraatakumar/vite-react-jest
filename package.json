@@ -1,6 +1,6 @@
 {
   "name": "vite-react-jest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom Vite template for React with Jest testing setup",
     "keywords": [
     "vite",
