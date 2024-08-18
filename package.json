@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "format": "prettier --write .",
+    "prepare": "if [ \"$CI\" != \"true\" ]; then husky; fi"
   },
   "dependencies": {
     "react": "^18.3.1",
