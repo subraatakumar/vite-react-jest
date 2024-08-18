@@ -3,7 +3,7 @@ import React from 'react';
 
 const CustomButton = ({ label, onClick, style }) => {
   return (
-    <button onClick={onClick} style={style}>
+            <button onClick={onClick} style={style}>
       {label}
     </button>
   );
