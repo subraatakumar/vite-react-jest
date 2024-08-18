@@ -1,8 +1,8 @@
 {
   "name": "vite-react-jest",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A custom Vite template for React with Jest testing setup",
-    "keywords": [
+  "keywords": [
     "vite",
     "react app",
     "jest",
@@ -55,5 +55,10 @@
   ],
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subraatakumar/vite-react-jest"
+  },
+  "homepage": "https://github.com/subraatakumar/vite-react-jest"
 }

@@ -26,13 +26,15 @@ npm install
 
 ## Running Example
 
-A sample component and test file is updated with in example folder.
+Sample components and test files are updated with in example folder.
 
-To run this example
+To run these test examples
 
 ```bash
 npm run test
 ```
+
+To learn more visit example folder
 
 ## Ensure test cases during commit
 

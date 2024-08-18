@@ -29,7 +29,11 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <CustomButton label={"Custom Button"} onClick={()=>{}} style={{margin:"20px"}}/>
+      <CustomButton
+        label={'Custom Button'}
+        onClick={() => {}}
+        style={{ margin: '20px' }}
+      />
       <Counter />
     </>
   );
