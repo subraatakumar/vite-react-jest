@@ -4,6 +4,11 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 In addition to this Jest configuration is added.
 
+## Features
+
+- Runs prettier code formatting during commit
+- added jest and sample test file in example folder
+
 ## How to use it
 
 - Clone it
@@ -27,4 +32,17 @@ To run this example
 
 ```bash
 npm run test
+```
+
+## Ensure test cases during commit
+
+- To ensure test cases during commit please uncomment the second line `.husky/pre-commit`
+- You can add other commands as per your requirement
+
+## To bypass husky during commit
+
+- This step is not advisible
+
+```bash
+git commit --no-verify -m "commit message"
 ```
